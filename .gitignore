@@ -1,6 +1,6 @@
 # Misc
 client_secret.json
-data/
+data/*
 gmail_data-6-months-rag.csv
 
 # Byte-compiled / optimized / DLL files
