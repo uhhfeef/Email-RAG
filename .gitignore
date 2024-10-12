@@ -3,6 +3,7 @@ client_secret.json
 data/*
 gmail_data-6-months-rag.csv
 gmail_token*
+share/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
